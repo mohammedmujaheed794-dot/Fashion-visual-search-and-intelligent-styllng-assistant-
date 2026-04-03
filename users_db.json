@@ -1,0 +1,27 @@
+{
+    "mujaheed": {
+        "password": "1234",
+        "saved_looks": []
+    },
+    "bunty": {
+        "password": "12345",
+        "saved_looks": [
+            {
+                "date": "2026-01-27 15:31",
+                "gender": "Male",
+                "recommendations": [
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\pants\\bottomwear_pants3885.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\pants\\bottomwear_pants1946.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\pants\\bottomwear_pants2898.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\skirt\\bottomwear_skirt1682.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\skirt\\bottomwear_skirt3392.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\bottomwear\\skirt\\bottomwear_skirt2591.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\upperwear\\jacket\\upperwear_jacket2749.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\upperwear\\jacket\\upperwear_jacket3389.png",
+                    "C:\\Users\\moham\\Downloads\\major project 2\\dataset\\upperwear\\jacket\\upperwear_jacket4602.png"
+                ],
+                "message": "Since you selected a shirt, we suggest: - pants to complete the look. - skirt to complete the look. - jacket to complete the look."
+            }
+        ]
+    }
+}

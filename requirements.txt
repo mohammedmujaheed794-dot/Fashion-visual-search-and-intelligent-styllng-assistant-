@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+jsonschema
+Pillow
+tqdm
+streamlit
+pymongo
+python-dotenv
