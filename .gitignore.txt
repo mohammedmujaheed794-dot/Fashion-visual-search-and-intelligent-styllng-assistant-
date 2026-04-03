@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+artifacts/
+dataset/
+.env
